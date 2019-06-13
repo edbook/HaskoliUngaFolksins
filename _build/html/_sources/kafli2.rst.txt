@@ -1,24 +1,9 @@
-Upprifjun um almenn brot
-========================
 
 
-Almenn brot 
+Hnútaflækja
+===========
 
-
-Fullstytt brot
-
-
-Samlagning og frádráttur almennra brota
-
-
-Margföldun og deiling almennra brota
-
-
-Einn á móti
-
-
-Lýsing á hnútflækju
-===================
+Förum nú í leik þar sem við myndum flækju á band og reynum að finna aðferð til að leysa flækjuna með hjálp stærðfræðinnar. 
 
 Efni
 ----
@@ -58,7 +43,7 @@ Allir halda í sinn enda allan tímann. Búum til hnút á bandið með því a�
    :width: 65%
    :align: center
 
-- Þetta eru einu leyfilegur hreyfingarnar.
+- Framkvæmum svo V og S aftur og aftur í einhverri röð þannig að hnútur myndast. Þetta eru einu leyfilegur hreyfingarnar. Við getum jafnvel hugsað um þetta sem dans!
 
 Spurningar
 ----------
@@ -69,11 +54,4 @@ Spurningar
 
 
 
-.. ggb:: a7d5gyx3
-  :width: 600
-  :height: 680
-  :img: polarggb.png
-  :imgwidth: 4cm
-  :zoom_drag: true 
 
-s

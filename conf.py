@@ -66,7 +66,7 @@ extensions = [
 #    'datacamp.datacamp',
 
     # Extension that allows embedding panopto videos from rec.hi.is
-    'panoptoextension.panopto'
+    #'panoptoextension.panopto'
 ]
 
 # -- Custom extension options and paths --------------------------------------
@@ -79,7 +79,7 @@ render_math = 'rendermath.js'
 katex_css = 'https://cdn.jsdelivr.net/npm/katex@0.10.0-rc/dist/katex.min.css'
 
 # Path for latest datacamp javascript file
-datacamp_path = 'https://cdn.datacamp.com/datacamp-light-latest.min.js'
+# datacamp_path = 'https://cdn.datacamp.com/datacamp-light-latest.min.js'
 
 # Paths for sagecell javascript files
 sage_jquery_path = 'http://sagecell.sagemath.org/static/jquery.min.js'

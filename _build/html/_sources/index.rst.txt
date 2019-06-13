@@ -6,20 +6,12 @@
 Háskóli unga fólksins 2019
 ==========================
 
-Stærðfræði: Flækjur Conway
---------------------------
-
-Contents:
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
+   :glob:
 
-   chapter01
+   kafli*
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
