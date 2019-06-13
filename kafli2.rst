@@ -8,7 +8,7 @@ Förum nú í leik þar sem við myndum flækju á band og reynum að finna aðf
 Efni
 ----
 
-- Tvö bönd (helst mislit, nokkuð þykk, um 1.5 m löng).
+- Tvö bönd (helst mislit, nokkuð þykk, um 1.5 m löng). Litirnir skipta ekki máli en auðvelda okkur að sjá hnútana.
 - Skriffæri og blað.
 
 Byrjun
