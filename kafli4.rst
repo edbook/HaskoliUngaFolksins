@@ -10,7 +10,7 @@ Prófum að taka annað dæmi.
    :align: center
 
 
-Notið tilgáturnar ykkar um hvað V gerir til að reyna að finna út hvað S gerir.   
+Notið tilgáturnar ykkar um hvað S gerir til að reyna að finna út hvaða tölur svara til hnútanna hér að ofan.   
    
 .. begin-toggle:: :label: Lausn
 
