@@ -6,6 +6,8 @@
 Háskóli unga fólksins 2019
 ==========================
 
+Stærðfræði: Ræðir hnútar Conway
+-------------------------------
 
 .. toctree::
    :maxdepth: 2
