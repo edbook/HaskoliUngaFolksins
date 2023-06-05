@@ -1,11 +1,11 @@
-.. NAME documentation master file, created by
-   sphinx-quickstart on Thu Aug 13 10:33:18 2015.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Háskóli unga fólksins 2019
+Háskóli unga fólksins 2023
 ==========================
 
+Stærðfræði: Ræðir hnútar Conway
+-------------------------------
+
+Höfundar: Benedikt Steinar Magnússon <bsm@hi.is>
+og Sigurður Örn Stefánsson <sigurdur@hi.is>
 
 .. toctree::
    :maxdepth: 2
